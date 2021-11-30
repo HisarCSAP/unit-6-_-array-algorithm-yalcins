@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test1",
+      "setup": "",
+      "run": "Arraytest1",
+      "input": "",
+      "output": "6.0\r\n3.875\r\nThe largest elemrnt is 8\r\n3\r\n2\r\n2\r\n1\r\n2\r\n1\r\n1\r\n0",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
